@@ -5,11 +5,12 @@
 ## Timeline Repositories:
 
 2021:
+- [Go-Node-gRPC-DOM-Parser](https://github.com/Alexeykhr/go-node-grpc-dom-parser) - A small example of a project to test gRPC technology `Go`, `TS`, `Node`, `gRPC`
 - [ESET-Nod32-Monitoring](https://github.com/Alexeykhr/eset-nod32-monitoring) - The service is installed on client PCs that periodically send information to the server `Go`, `Fiber`, `Gorm`, `SQLite`, `JS`, `Parcel`, `Tailwind CSS`
 - [Esbuild-React-Docker-Template](https://github.com/Alexeykhr/esbuild-react-docker-template) - Template for a quick setup of docker containers with React + esbuild `JS`, `React`, `esbuild`, `Docker`
 
 2020:
-- [Traefik-GO-Nodejs-Vue-Docker-Template](https://github.com/Alexeykhr/traefik-go-nodejs-vue-docker-template) - Template for a quick setup of docker containers `Traefik`, `GO`, `Node`, `Vue`, `Docker`
+- [Traefik-Go-Nodejs-Vue-Docker-Template](https://github.com/Alexeykhr/traefik-go-nodejs-vue-docker-template) - Template for a quick setup of docker containers `Traefik`, `GO`, `Node`, `Vue`, `Docker`
 - [Laravel-ClickHouse-Migrations](https://github.com/Alexeykhr/laravel-clickhouse-migrations) - Clickhouse migrations for Laravel `PHP7.2`, `Laravel`, `CI`
 - [Flashcard-New-Tab](https://github.com/Alexeykhr/flashcard-new-tab) - Repeat your knowledge with flashcard on each new tab `JS`, `Parcel`, `Docker`, `IndexedDB`
 - [JWT-Multiple-Request-Refresh-Token](https://github.com/Alexeykhr/jwt-multiple-request-refresh-token) - Repository for the article [Medium](https://medium.com/@alexeykhr/jwt-multiple-request-refresh-token-693bb24e3a68) `JS`, `Node`, `JWT`
