@@ -17,7 +17,7 @@
 
 2019:
 - [Dictionary-New-Tab](https://github.com/Alexeykhr/dictionary-new-tab) - Extension for Chrome for learning words/phrases `JS`, `Webpack`, `IndexedDB`
-- [Vue-Stripe-Menu](https://github.com/Alexeykhr/vue-stripe-menu) - Creating a navigation menu with animations like on Stripe `JS`, `Vue2`, `CI`
+- [Vue-Stripe-Menu](https://github.com/Alexeykhr/vue-stripe-menu) - Creating a navigation menu with animations like on Stripe `JS`, `Vue`, `CI`
 - [Webpack-Dev-Server-Socket-IO](https://github.com/Alexeykhr/webpack-dev-server-socket-io) - Repository for the article [Medium](https://medium.com/@alexeykhr/webpack-dev-server-with-socket-io-c6884cd49c28) `JS`, `Websocket`, `Webpack`
 - [Playwright-Worker-Threads-Example](https://github.com/Alexeykhr/playwright-worker-threads-example) - `JS`, `Node`, `worker_threads`
 - [Vue-Flexible-Button](https://github.com/Alexeykhr/vue-flexible-button) - Repository for the article [Medium](https://medium.com/@alexeykhr/flexible-button-for-vue-2-71968216c107) `Vue2`, `Vue CLI`
