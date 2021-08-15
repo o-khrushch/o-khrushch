@@ -1,8 +1,23 @@
-### Hi there 👋
+<h1 align="center">
+  Hi there 👋 I'm Alexey 👨‍💻
+</h1>
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=Alexeykhr&show_icons=true&theme=tokyonight)
+<p align="center">
+  PHP Developer from Ukraine, Kyiv.
+</p>
 
-## Timeline Repositories:
+<p align="center"><a href="https://www.linkedin.com/in/alexeykhr" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://leetcode.com/alexeykhr/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a> <a href="https://medium.com/@alexeykhr" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://dev.to/alexeykhr"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white"></a></p>
+
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=Alexeykhr&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" align="top" height="170"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexeykhr&layout=compact&theme=tokyonight" alt="GitHub Top Languages" align="top" height="170"/>
+</div>
+
+<hr>
+
+<details>
+<summary markdown="span">List of repositories</summary>
+<br>
 
 2021:
 - [Go-Node-gRPC-DOM-Parser](https://github.com/Alexeykhr/go-node-grpc-dom-parser) - A small example of a project to test gRPC technology `Go`, `TS`, `Node`, `gRPC`
@@ -36,3 +51,5 @@
 - [Calculator-for-accountants](https://github.com/Alexeykhr/Calculator-for-accountants) - `C#`, `Windows Forms`
 - [CRM](https://github.com/Alexeykhr/crm) - `PHP7.0`, `Laravel`, `MySQL`
 - [Hackathon-2017](https://github.com/Alexeykhr/Hackathon-2017) - `PHP5.6`
+
+</details>
