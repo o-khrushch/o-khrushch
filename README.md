@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  PHP Developer from Ukraine, Kyiv.
+  Software Developer from Ukraine, Kyiv.
 </p>
 
 <p align="center"><a href="https://leetcode.com/alexeykhr/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a> <a href="https://medium.com/@alexeykhr" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://dev.to/alexeykhr"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white"></a></p>
