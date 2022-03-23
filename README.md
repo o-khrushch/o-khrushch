@@ -1,19 +1,10 @@
-<h1 align="center">
-  Hi there 👋 I'm Oleksii 👨‍💻
-</h1>
+# Hi there 👋 I'm Oleksii 👨‍💻
 
-<p align="center">
+<p>
   Software Developer from Ukraine, Kyiv.
 </p>
 
-<p align="center"><a href="https://leetcode.com/o-khrushch/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a> <a href="https://medium.com/@o.khrushch" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://dev.to/o_khrushch"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white"></a></p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=o-khrushch&theme=nord" alt="GitHub Streaks" height="180" />
-  <img src="https://gitcard.vercel.app/api/top-langs?username=o-khrushch&theme=nord&langs_count=8&layout=compact" alt="GitHub Top Languages" height="180" />
-</p>
-
-<br>
+<p><a href="https://leetcode.com/o-khrushch/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a> <a href="https://medium.com/@o.khrushch" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://dev.to/o_khrushch"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white"></a></p>
 
 ## ✏️ Recent Blog
 
